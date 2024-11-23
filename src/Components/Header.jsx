@@ -11,6 +11,9 @@ const Header = () => {
                 <Navbar.Link href="#" active>
                     2024
                 </Navbar.Link>
+                <Navbar.Link href="#" active>
+                    <i className="fa-solid fa-home"/>
+                </Navbar.Link>
             </Navbar.Collapse>
         </Navbar>
     )
