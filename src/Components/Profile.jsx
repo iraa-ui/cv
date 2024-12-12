@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import pp from "../assets/pp.jpg";
+import pp from "../assets/pp.jpeg";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -80,7 +80,7 @@ const CV = () => {
 
                
                 <div className="mb-8" data-aos="fade-up">
-                    <h2 className="text-2xl font-semibold text-teal-700 mb-4">Work Experience</h2>
+                    <h2 className="text-2xl font-semibold text-teal-700 mb-4">Experience</h2>
                     <ul className="list-disc ml-6 text-gray-700">
                         <li>
                             <strong>Library Application Developer</strong>
